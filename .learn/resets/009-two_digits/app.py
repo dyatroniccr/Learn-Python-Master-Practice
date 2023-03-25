@@ -1,8 +1,6 @@
 #Complete the function to return the tens digit and the ones digit of any interger.
 def two_digits(digit):
-  dig1 = digit//10
-  dig2 = digit % 10
-  return dig1,dig2
+  return None
    
 
 
